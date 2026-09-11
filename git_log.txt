@@ -1,0 +1,45 @@
+commit 9db96793306d40694253c384e5c595477ab02875
+Merge: 9be0d9c b08ef85
+Author: Robert Moore <rmoore35@calstatela.edu>
+Date:   Thu Sep 10 23:32:08 2026 -0700
+
+    Resolve merge conflict
+
+commit b08ef85bbecbc9064eb40795713dab544e92dd9a
+Author: Robert Moore <rmoore35@calstatela.edu>
+Date:   Thu Sep 10 23:30:49 2026 -0700
+
+    Add favorite game
+
+commit 9be0d9c41753c19230c7da8a9f4c3264db8c2267
+Author: Robert Moore <rmoore35@calstatela.edu>
+Date:   Thu Sep 10 23:29:47 2026 -0700
+
+    Add favorite food
+
+commit 99db06bd7970d96015b7da654c8eec3b711fc767
+Author: Robert Moore <rmoore35@calstatela.edu>
+Date:   Thu Sep 10 23:28:18 2026 -0700
+
+    add README
+
+commit 35ef63edd20c4e97051cc1ae92818fea59503db9
+Merge: 1d2bfc0 9521f7a
+Author: Robert Moore <robertmoore2409@gmail.com>
+Date:   Thu Sep 10 20:56:02 2026 -0700
+
+    Merge pull request #1 from LevelNerd/my-feature
+    
+    Complete personal information
+
+commit 9521f7a039255ea1652770c6f586c8f8329b08a0
+Author: Robert Moore <rmoore35@calstatela.edu>
+Date:   Thu Sep 10 20:51:41 2026 -0700
+
+    Complete personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
